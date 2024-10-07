@@ -1,0 +1,47 @@
+.container{
+  
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    margin-top: 50px;
+    color: #9f2525;
+    font-size: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 3px 3px BLACK;
+}
+span{
+    color: azure;
+}
+.reset{
+    height: 7vh;
+    width: 14vh;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+    background: #224658;
+    font-size: x-large;
+    color: #ffffff;
+}
+.boxes img{
+    mix-blend-mode: multiply;
+}
+.titles img{
+  
+        height: 60vh;
+        mix-blend-mode: multiply;
+       
+}
+.titles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 0px;
+    position: absolute;
+    margin-top: 37vh;
+    margin-left: 31vh;
+    font-size: 8vh;
+    font-family: cursive;
+}
